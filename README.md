@@ -12,3 +12,6 @@
 
 <br />
 
+<p align="center">
+  <img src="./ASCII-star-wars.gif" width="1000rem"></img>
+ </p>
