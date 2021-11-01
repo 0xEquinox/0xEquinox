@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xEquinox&theme=radical&margin-w=15&margin-h=15&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0xEquinox&theme=radical&margin-w=15&margin-h=15&column=8" alt="Trophy" />
 </p>
 
 <p align="center">
