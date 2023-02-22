@@ -1,4 +1,4 @@
-<h1 align="center">Hey I'm Equinox | High school developer</h1>
+<h1 align="center">Hey I'm Will | High school developer</h1>
 
 
 <p align="center">
